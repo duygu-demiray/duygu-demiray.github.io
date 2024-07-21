@@ -1,2 +1,4 @@
-# duygudemiray.github.io
-personal website
+---
+layout: post
+title: Website
+---
