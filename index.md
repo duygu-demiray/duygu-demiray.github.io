@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Website
+title: Duygu Demiray
 ---
