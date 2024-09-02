@@ -1,5 +1,5 @@
 ---
 layout: post
-about: about.md
+about: about
 ---
 <h1>{{ page.about }}</h1>
