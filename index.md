@@ -2,4 +2,4 @@
 layout: post
 about: about
 ---
-<h1>{{ page.about.md }}</h1>
+<h1>{{ about.md }}</h1>
