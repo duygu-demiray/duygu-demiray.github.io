@@ -21,11 +21,11 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <a href="research.md">Research</a>
-        <a href="cv.md">CV</a>
-        <a href="about.md">About</a>
-
+    <dl>
+      <dt><a href="research.md">Research</a></dt>
+      <dt><a href="cv.md">CV</a></dt>
+      <a href="about.md">About</a>
+    </dl>
         
         {% if site.show_downloads %}
         <ul class="downloads">
