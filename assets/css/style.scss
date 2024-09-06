@@ -3,7 +3,9 @@
 
 @import "{{ site.theme }}";
 
-font-family: Georgia, serif;
+html {
+  font-family: Georgia, serif;
+}
 
 h1 {
 color: #000000;
